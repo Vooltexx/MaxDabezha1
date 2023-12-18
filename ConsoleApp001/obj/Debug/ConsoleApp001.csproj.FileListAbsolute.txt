@@ -1,0 +1,7 @@
+C:\Users\Maksim\Desktop\ConsoleApp001\bin\Debug\ConsoleApp001.exe.config
+C:\Users\Maksim\Desktop\ConsoleApp001\bin\Debug\ConsoleApp001.exe
+C:\Users\Maksim\Desktop\ConsoleApp001\bin\Debug\ConsoleApp001.pdb
+C:\Users\Maksim\Desktop\ConsoleApp001\obj\Debug\ConsoleApp001.csproj.AssemblyReference.cache
+C:\Users\Maksim\Desktop\ConsoleApp001\obj\Debug\ConsoleApp001.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Desktop\ConsoleApp001\obj\Debug\ConsoleApp001.exe
+C:\Users\Maksim\Desktop\ConsoleApp001\obj\Debug\ConsoleApp001.pdb
